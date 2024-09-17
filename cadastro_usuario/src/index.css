@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Playpen Sans", cursive;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(18deg, #F5A9F2 0%, rgba(122, 17, 191, 0.8) 100%);
+
+}
